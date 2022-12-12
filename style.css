@@ -1,0 +1,22 @@
+body{
+    background-color: #314e7b;   
+}
+
+.newtask{
+    width: 50%;
+    height: 5vh;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 250px;
+    border: 1px;
+}
+
+.addBtn{
+    width: 5%;
+    height: 5vh;
+    color: #EC4899;
+}
+ 
+#taskContainer{
+    text-align: center;
+}
